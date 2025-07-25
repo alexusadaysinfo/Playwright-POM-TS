@@ -1,5 +1,5 @@
 # Playwright + TypeScript — Page Object Model Example
-
+Update Readme from your_github_actio
 ![Playwright CI](https://github.com/<owner>/<repo>/actions/workflows/playwright.yml/badge.svg?branch=main)
 
 > A minimal, beginner-friendly POM starter that powers my YouTube series  
